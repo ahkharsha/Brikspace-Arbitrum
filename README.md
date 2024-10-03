@@ -4,7 +4,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/dishadaniellol/Brikspace)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
-<img src="https://github.com/user-attachments/assets/1c74e33d-9a29-4314-8abe-df38c1c63f10" alt="logo-white" width="40"/>
+<img src="https://github.com/user-attachments/assets/1cbac393-80d1-431a-8d0a-fe2255f1bcf5" alt="logo-white" width="40"/>
 
 ---
 
@@ -15,7 +15,7 @@ Brikspace is an innovative blockchain-based platform designed to revolutionize r
 ## 🚀 **Deployment**
 
 The platform is live and can be accessed at:  
-<br>**🔗 [Brikspace Testnet (Deployed) - brikspace.vercel.app](https://brikspace.vercel.app/)**<br><br>
+<br>**🔗 [Brikspace Testnet (Deployed) - brikspace-arbitrum.vercel.app](https://brikspace-arbitrum.vercel.app/)**<br><br>
 
 ---
 
@@ -148,7 +148,7 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 ## 📜 **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/dishadaniellol/Brikspace/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/Brikspace-Arbitrum/blob/main/LICENSE) file for details.
 
 ---
 
@@ -158,7 +158,7 @@ For any inquiries or support, feel free to reach out:
 
 - **Email**: [ahkharsha@gmail.com](mailto:ahkharsha@gmail.com)
 - **LinkedIn**: [Harsha Kumar](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
-- **Project Website**: [Brikspace](https://brikspace.vercel.app/)
+- **Project Website**: [Brikspace](https://brikspace-arbitrum.vercel.app/)
 
 ---
 
